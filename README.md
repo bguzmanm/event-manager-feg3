@@ -75,7 +75,7 @@ node server.js
 
 ```bash
 cd event-manager-app
-npm start
+npm run dev
 ```
 
 ## Soporte
